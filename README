@@ -1,0 +1,16 @@
+This is a VR game developed in UNITY and tested on a Vive Cosmos VR System.
+This game was developed as the final project for CSC 377: Intro to Mixed Reality at Cal Poly.
+
+In order to run this game Unity must be installed on one's machine. With Unity installed download all files into a single folder.
+Select this folder and open within Unity. Select the play button from the top. You should know be operating a working version of the game. 
+
+NOTE: This game is designed to be played in VR. It does not currently support Non-Virtual Reality play. 
+      Controls are specifically desigend for the Vive Cosmos system.
+
+CONTROLS:
+
+      Left Stick: Push forward to initiate teleportation. Change controller angle to adjust teleportation distance and direction. Release to teleport
+      Left Trigger: Hold down close to arrow shaft to grip arrow. Pull back controller while holding trigger to draw back Arrow. Release trigger to fire arrow.
+
+DISCLAIMER: This project was created for purely educational purposes
+
